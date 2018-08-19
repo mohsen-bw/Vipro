@@ -12,43 +12,43 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 cl = LINETCR.LINE()
 #cl.login(qr=True)
-cl.login(token='token')
+cl.login(token='EvDuTgyfIS76ZMauX9i2.jNXBtFlWMaRn6gfX4zaGKG.PGpsxH8w6AmnGDzojO+rt0sxCG3mP/Nh8c85K4CYEps=')
 cl.loginResult()
 print "Cl-Login Success\n"
 
 ki = LINETCR.LINE()
 #ki.login(qr=True)
-ki.login(token='token')
+ki.login(token='Ev2Y0aiTVj5lHhIKBcYe.Kl9WqYiaB+04HvqtAXsk7G.ETLPF0HsYqqfcdp7Y96PtfHhvNO82F4kkEKz4083BbQ=')
 ki.loginResult()
 print "Ki-Login Success\n"
 
 kk = LINETCR.LINE()
 #kk.login(qr=True)
-kk.login(token='token')
+kk.login(token='EvPl2ZRH5J0fKjFqaT94.eaEPHDYrUssW8BY7Jkwrra.kr68YgpkKRAHHknrELTzlEKNMlqZ75FXDsXGjYH4SB8=')
 kk.loginResult()
 print "Kk-Login Success\n"
 
 kc = LINETCR.LINE()
 #kc.login(qr=True)
-kc.login(token='token')
+kc.login(token='Evt3BOgZ6EWef02iwQte.9A4K6bQpRZFZsmr4eFxb+G.GIOq0uLedq4ZPiFkXYka/NIfHWu16rmiveGf6mkPwZY=')
 kc.loginResult()
 print "Kc-Login Success\n"
 
 kr = LINETCR.LINE()
 #kr.login(qr=True)
-kr.login(token='token')
+kr.login(token='EvU6nffuVzN0pO5lFFU1.0GtuQUf/KwrlMQP+NmlrWq.dubOGFulwYYtGHk9hw1ZCcJzMpG1K0r9XKp/w0a8NgY=')
 kr.loginResult()
 print "Kr-Login Success\n"
 
 vipro = LINETCR.LINE() #(isi dengan akun utama fungsinya biar akun utama di kick langsung di invite bot)
 #vipro.login(qr=True)
-vipro.login(token='token')
+vipro.login(token='EvDuTgyfIS76ZMauX9i2.jNXBtFlWMaRn6gfX4zaGKG.PGpsxH8w6AmnGDzojO+rt0sxCG3mP/Nh8c85K4CYEps=')
 vipro.loginResult()
 print "Vipro-Login Success\n"
 
 km = LINETCR.LINE() #(bot ini di luar grup fungsinya jadi algojo kaya kicker siri)
 #km.login(qr=True)
-km.login(token='token')
+km.login(token='EvrYQ6zeRkDvBsa59UTe.M/51T+DVUNwd7w8lFK4X+G.OBhvxkIaMXxaiLYi5POTUyseQlkDpZhdtskEaVY2APk=')
 km.loginResult()
 print "Km-Login Success\n\n=====[Sukses All Login]====="
 
@@ -82,8 +82,8 @@ selfMessage ="""
 ╠➩〘Getvid @〙
 ╠➩〘Friendlist〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
 
@@ -104,8 +104,8 @@ botMessage ="""
 ╠➩〘@bye (Usir Bot Utama)〙
 ╠➩〘Bye bot (Usir Semua Bot)〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
 
@@ -143,8 +143,8 @@ mediaMessage ="""
 ╠➩〘Id@th Text (Translate ID Ke TH〙
 ╠➩〘En@id Text (Translate En Ke ID〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
 
@@ -179,12 +179,12 @@ groupMessage ="""
 ╠➩〘Memlist〙
 ╠➩〘Getgroup image〙
 ╠➩〘Urlgroup Image〙
-╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+╠═══════════════════════
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
-vip="uda936836a9869eb86ec8ab992a4e8979"
+vip="u30c2712c8e6129e59aaef4c2710d63e1"
 
 setMessage ="""
 ╔═════════════════════════
@@ -197,8 +197,10 @@ setMessage ="""
 ╠➩〘Contact on/off〙
 ╠➩〘Simisimi on/off〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
 
@@ -224,8 +226,10 @@ creatorMessage ="""
 ╠➩〘Bot restart〙
 ╠➩〘Turn off〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
 
@@ -265,8 +269,10 @@ adminMessage ="""
 ╠➩〘Leave on/off〙
 ╠➩〘All join / (Vipro1/2/3/4 Join)〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
 
@@ -288,8 +294,10 @@ helpMessage ="""
 ╠➩〘Speed test〙
 ╠➩〘Status〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
 
@@ -304,8 +312,8 @@ protectMessage ="""
 ╠➩〘Ghost on/off〙
 ╠➩〘Invitepro on/off〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
 
@@ -318,9 +326,9 @@ Cmid = kc.getProfile().mid
 Dmid = kr.getProfile().mid
 Emid = km.getProfile().mid
 Fmid = vipro.getProfile().mid
-Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,"uda936836a9869eb86ec8ab992a4e8979"]
-Creator=["uda936836a9869eb86ec8ab992a4e8979"]
-admin=["uda936836a9869eb86ec8ab992a4e8979"]
+Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,"u30c2712c8e6129e59aaef4c2710d63e1"]
+Creator=["u30c2712c8e6129e59aaef4c2710d63e1"]
+admin=["u30c2712c8e6129e59aaef4c2710d63e1"]
 
 contact = cl.getProfile()
 backup1 = cl.getProfile()
