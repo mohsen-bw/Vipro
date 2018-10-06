@@ -12,7 +12,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 vipro = LINETCR.LINE()
 #vipro.login(qr=True)
-vipro.login(token='EpJgyNvzK8xQp88I04t9.2PnOnQMgNRHUYkUzkK6jEq./p92mOc1BPmafZPSgTcw4mkpBeT/czsWHBLRbK7Aewc=')
+vipro.login(token='ExUBHEaJAj23UXBKs131.mmjXli5HkEwARVtcCq1J4q.W3BDKMtOQt0Hrg1MCnqRgBircG7+8VUewB94gMReooU=')
 vipro.loginResult()
 print "Vipro-Login Success\n\n=====[Sukses Login]====="
 
@@ -48,9 +48,9 @@ selfMessage ="""
 ╠➩〘Micadd @〙
 ╠➩〘Micdel @〙
 ╠➩〘Miclist〙
-╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+╠═══════════════════════
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
 
@@ -68,9 +68,9 @@ botMessage ="""
 ╠➩〘Myname (Text)〙
 ╠➩〘@bye〙
 ╠➩〘Bot on/off〙
-╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+╠═══════════════════════
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
 
@@ -107,9 +107,9 @@ mediaMessage ="""
 ╠➩〘Id@en Text (Translate ID Ke En〙
 ╠➩〘Id@th Text (Translate ID Ke TH〙
 ╠➩〘En@id Text (Translate En Ke ID〙
-╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+╠═══════════════════════
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
 
@@ -142,12 +142,12 @@ groupMessage ="""
 ╠➩〘Memlist〙
 ╠➩〘Getgroup image〙
 ╠➩〘Urlgroup Image〙
-╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+╠═══════════════════════
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
-vip="uda936836a9869eb86ec8ab992a4e8979"
+vip="u30c2712c8e6129e59aaef4c2710d63e1"
 
 setMessage ="""
 ╔═════════════════════════
@@ -161,9 +161,9 @@ setMessage ="""
 ╠➩〘Contact on/off〙
 ╠➩〘Sticker on〙
 ╠➩〘Simisimi on/off〙
-╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+╠═══════════════════════
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
 
@@ -180,9 +180,9 @@ creatorMessage ="""
 ╠➩〘Tag on/off〙
 ╠➩〘Bot restart〙
 ╠➩〘Turn off〙
-╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+╠═══════════════════════
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
 
@@ -221,9 +221,9 @@ adminMessage ="""
 ╠➩〘Respon2 on/off〙
 ╠➩〘Respon3 on/off〙
 ╠➩〘Responkick on/off〙
-╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+╠═══════════════════════
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
 
@@ -242,9 +242,9 @@ helpMessage ="""
 ╠➩〘Speed〙
 ╠➩〘Speed test〙
 ╠➩〘Status〙
-╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+╠═══════════════════════
+║💠 By ℳ❍அ乌ΞŊ°β.Ѡ💠
+║〽️ line.me/ti/p/~masih.00 〽️
 ╚═════════════════════════
 """
 
@@ -252,8 +252,8 @@ helpMessage ="""
 KAC=[vipro]
 mid = vipro.getProfile().mid
 Bots=[mid]
-Creator=["uda936836a9869eb86ec8ab992a4e8979"]
-admin=["uda936836a9869eb86ec8ab992a4e8979"]
+Creator=["u30c2712c8e6129e59aaef4c2710d63e1"]
+admin=["u30c2712c8e6129e59aaef4c2710d63e1"]
 
 contact = vipro.getProfile()
 backup1 = vipro.getProfile()
