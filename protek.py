@@ -12,43 +12,43 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 cl = LINETCR.LINE()
 #cl.login(qr=True)
-cl.login(token='EwBYIdKjKoKCL0Bfs5kb.JUCMSYw1ffLXBLNUB0u4IW.3YqH7wCGh8uEVMTB9zNheZKKrdzMQxHosqwu6zkdBmk=')
+#cl.login(token='EwBYIdKjKoKCL0Bfs5kb.JUCMSYw1ffLXBLNUB0u4IW.3YqH7wCGh8uEVMTB9zNheZKKrdzMQxHosqwu6zkdBmk=')
 cl.loginResult()
 print "Cl-Login Success\n"
 
 ki = LINETCR.LINE()
 #ki.login(qr=True)
-ki.login(token='EwLXPKrGB6CNXphtEMO4.eaEPHDYrUssW8BY7Jkwrra.gjLDebKVy7r7sGOwM008xIgGdGGEJjusmqzq708D9Vw=')
+#ki.login(token='EwLXPKrGB6CNXphtEMO4.eaEPHDYrUssW8BY7Jkwrra.gjLDebKVy7r7sGOwM008xIgGdGGEJjusmqzq708D9Vw=')
 ki.loginResult()
 print "Ki-Login Success\n"
 
 kk = LINETCR.LINE()
 #kk.login(qr=True)
-kk.login(token='EwMWZFueHBRA8dVf3Dzd.ITlWQO6DBUI++leaBKp87q.TFxcwYkD5nLyCx+shUFtW9R3LouIx8AFRozFpOrKdO4=')
+#kk.login(token='EwMWZFueHBRA8dVf3Dzd.ITlWQO6DBUI++leaBKp87q.TFxcwYkD5nLyCx+shUFtW9R3LouIx8AFRozFpOrKdO4=')
 kk.loginResult()
 print "Kk-Login Success\n"
 
 kc = LINETCR.LINE()
 #kc.login(qr=True)
-kc.login(token='EwQFUuuIGVBvWaMcrCue.Kl9WqYiaB+04HvqtAXsk7G./Qjb+rfDXCQKVqjFkUs80kDo+7E4wT5SSfxjR0WqY0A=')
+#kc.login(token='EwQFUuuIGVBvWaMcrCue.Kl9WqYiaB+04HvqtAXsk7G./Qjb+rfDXCQKVqjFkUs80kDo+7E4wT5SSfxjR0WqY0A=')
 kc.loginResult()
 print "Kc-Login Success\n"
 
 kr = LINETCR.LINE()
 #kr.login(qr=True)
-kr.login(token='EwQxNgPfxJhpH2EKAyce.9A4K6bQpRZFZsmr4eFxb+G.GQDGRgKhgb4OdP9WztxirhCMaN0fIg8CKKsoyR//2t4=')
+#kr.login(token='EwQxNgPfxJhpH2EKAyce.9A4K6bQpRZFZsmr4eFxb+G.GQDGRgKhgb4OdP9WztxirhCMaN0fIg8CKKsoyR//2t4=')
 kr.loginResult()
 print "Kr-Login Success\n"
 
 vipro = LINETCR.LINE() #(isi dengan akun utama fungsinya biar akun utama di kick langsung di invite bot)
 #vipro.login(qr=True)
-vipro.login(token='EwBYIdKjKoKCL0Bfs5kb.JUCMSYw1ffLXBLNUB0u4IW.3YqH7wCGh8uEVMTB9zNheZKKrdzMQxHosqwu6zkdBmk=')
+#vipro.login(token='EwBYIdKjKoKCL0Bfs5kb.JUCMSYw1ffLXBLNUB0u4IW.3YqH7wCGh8uEVMTB9zNheZKKrdzMQxHosqwu6zkdBmk=')
 vipro.loginResult()
 print "Vipro-Login Success\n"
 
 km = LINETCR.LINE() #(bot ini di luar grup fungsinya jadi algojo kaya kicker siri)
 #km.login(qr=True)
-km.login(token='Ew16ZVZ8dHSxaY4PwkB1.0GtuQUf/KwrlMQP+NmlrWq.VUnd99+N5Rahlir8v8xaPiQ49LNP4nG0mc5o5ubEoUA=')
+#km.login(token='Ew16ZVZ8dHSxaY4PwkB1.0GtuQUf/KwrlMQP+NmlrWq.VUnd99+N5Rahlir8v8xaPiQ49LNP4nG0mc5o5ubEoUA=')
 km.loginResult()
 print "Km-Login Success\n\n=====[Sukses All Login]====="
 
